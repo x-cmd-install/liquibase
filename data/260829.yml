@@ -1,0 +1,66 @@
+about:
+  description: Main Liquibase Source
+  license: NOASSERTION
+  homepage: https://www.liquibase.org
+  head: f6ddd56
+  archived: false
+  latestVersion: nightly
+  collectedAt: 2026-08-29T07:20:53Z
+timeline:
+  created: 2011-07-08
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-28
+popularity:
+  star: 5596
+  watcher: 135
+  fork: 1972
+  release: 109
+  contributor: 630
+  pullRequest: 1666
+  issue: 2139
+language:
+  Java: 6749477
+  Groovy: 2340451
+  TSQL: 33092
+  Shell: 17064
+  Batchfile: 3704
+  SQLPL: 2790
+  Dockerfile: 2756
+  Inno Setup: 2522
+  HTML: 2114
+  PLpgSQL: 1891
+  CSS: 1315
+totalLine: 9157176
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 2
+    mergedPR: 53
+    openPR: 16
+    closedIssue: 4
+    openIssue: 7
+    commit: 100
+  last90d:
+    since: 2026-05-31
+    release: 2
+    mergedPR: 98
+    openPR: 20
+    closedIssue: 16
+    openIssue: 14
+    commit: 169
+  last180d:
+    since: 2026-03-02
+    release: 4
+    mergedPR: 219
+    openPR: 25
+    closedIssue: 27
+    openIssue: 28
+    commit: 334
+  last360d:
+    since: 2025-09-03
+    release: 6
+    mergedPR: 375
+    openPR: 34
+    closedIssue: 123
+    openIssue: 41
+    commit: 516
