@@ -7,7 +7,7 @@ about:
   head: e9da129
   archived: false
   latestVersion: nightly
-  collectedAt: 2026-09-04T19:59:13Z
+  collectedAt: 2026-09-04T20:40:04Z
 timeline:
   created: 2011-07-08
   lastCommit: 2026-09-04
@@ -90,6 +90,94 @@ total:
   openIssue: 185
   commit: 14447
 ---
+path: /home/runner/.x-repo/github.com/liquibase/liquibase
+collectedAt: 2026-09-04T20:40:15Z
+loc:
+  Java:
+    code: 119772
+    comments: 20426
+    blanks: 24572
+    files: 1495
+  Json:
+    code: 119220
+    comments: 0
+    blanks: 124
+    files: 17
+  Groovy:
+    code: 42398
+    comments: 1463
+    blanks: 7461
+    files: 388
+  Xml:
+    code: 21439
+    comments: 577
+    blanks: 2191
+    files: 316
+  Yaml:
+    code: 3772
+    comments: 35
+    blanks: 209
+    files: 56
+  Sql:
+    code: 2525
+    comments: 3189
+    blanks: 306
+    files: 873
+  Velocity:
+    code: 449
+    comments: 59
+    blanks: 1
+    files: 3
+  Sh:
+    code: 438
+    comments: 95
+    blanks: 52
+    files: 4
+  Batch:
+    code: 249
+    comments: 11
+    blanks: 50
+    files: 3
+  Bash:
+    code: 169
+    comments: 20
+    blanks: 22
+    files: 3
+  Html:
+    code: 61
+    comments: 0
+    blanks: 5
+    files: 3
+  Dockerfile:
+    code: 46
+    comments: 7
+    blanks: 11
+    files: 1
+  Css:
+    code: 20
+    comments: 7
+    blanks: 8
+    files: 1
+  Zsh:
+    code: 16
+    comments: 0
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 642
+    blanks: 357
+    files: 7
+  Text:
+    code: 0
+    comments: 6297
+    blanks: 1095
+    files: 32
+total:
+  code: 310688
+  comments: 32847
+  blanks: 36476
+  files: 3203
 ---
 date: "2026-08-24"
 repo:
