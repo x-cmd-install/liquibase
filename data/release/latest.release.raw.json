@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 8773410,
       "digest": "sha256:bb08638d70dddd6af8cca6e033148576f8214b5996831b1f8864eb3528f4cfce",
-      "download_count": 3661,
+      "download_count": 3760,
       "created_at": "2026-08-18T12:34:22Z",
       "updated_at": "2026-08-18T12:34:23Z",
       "browser_download_url": "https://github.com/liquibase/liquibase/releases/download/v5.0.4/liquibase-5.0.4.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 8790076,
       "digest": "sha256:047535ad3076f47774fe53a2d19550363e0f414d6df87f7f6bdd38fbdad3b12a",
-      "download_count": 2519,
+      "download_count": 2617,
       "created_at": "2026-08-18T12:34:22Z",
       "updated_at": "2026-08-18T12:34:23Z",
       "browser_download_url": "https://github.com/liquibase/liquibase/releases/download/v5.0.4/liquibase-5.0.4.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 61046120,
       "digest": "sha256:6d113a119d1204966e5f73d385f1858edd7321ec19e6d804ed44d64ea574739c",
-      "download_count": 1413,
+      "download_count": 1436,
       "created_at": "2026-08-18T12:34:22Z",
       "updated_at": "2026-08-18T12:34:25Z",
       "browser_download_url": "https://github.com/liquibase/liquibase/releases/download/v5.0.4/liquibase-windows-x64-installer-5.0.4.exe"
