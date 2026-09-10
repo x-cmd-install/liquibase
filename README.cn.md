@@ -4,42 +4,13 @@
 
 Main Liquibase Source
 
-![liquibase](https://repo.x-cmd.io/liquibase.svg)
+![liquibase](https://repo.x-cmd.io/liquibase.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install liquibase
 ```
-
-## 源代码
-
-- **上游仓库**: <https://github.com/liquibase/liquibase>
-- **官网**: <https://www.liquibase.org>
-- **许可证**: NOASSERTION
-
-## 发布
-
-- **最新版本**: `nightly` (2026-08-20)
-- **最近提交**: 2026-09-09
-- **Release 含资产**: 5 个
-- **发布时间**: 2026-08-20T16:18:26Z
-
-## 流行度
-
-- **Star**: 5,609 · **Fork**: 1,970 · **开放 issue**: 2,139 · **贡献者**: 630
-
-## 累计统计
-
-- **发布数**: 109 · **已合并 PR**: 4150 · **开放 PR**: 75 · **已关闭 issue**: 1954 · **开放 issue**: 185 · **提交数**: 14453
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 2 | 49 | 20 | 3 | 3 | 83 |
-| 90d | 2026-06-12 | 2 | 112 | 24 | 13 | 12 | 196 |
-| 360d | 2025-09-15 | 6 | 380 | 37 | 117 | 39 | 540 |
 
 ## 代码规模
 
@@ -63,6 +34,57 @@ x install liquibase
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
+## 源代码
+
+- **上游仓库**: <https://github.com/liquibase/liquibase>
+- **官网**: <https://www.liquibase.org>
+- **许可证**: NOASSERTION
+
+## 发布
+
+- **最新版本**: `nightly` (2026-08-20)
+- **最近提交**: 2026-09-10
+- **Release 含资产**: 5 个
+
+## 流行度
+
+- **Star**: 5,609 · **Fork**: 1,970 · **开放 issue**: 2,139 · **贡献者**: 630
+
+## 累计统计
+
+- **发布数**: 109 · **已合并 PR**: 4152 · **开放 PR**: 74 · **已关闭 issue**: 1954 · **开放 issue**: 185 · **提交数**: 14455
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 2 | 51 | 19 | 3 | 3 | 87 |
+| last60d | 2026-07-12 | 2 | 91 | 21 | 9 | 10 | 163 |
+| 90d | 2026-06-12 | 2 | 114 | 23 | 13 | 12 | 200 |
+| last180d | 2026-03-14 | 3 | 222 | 29 | 24 | 25 | 342 |
+| 360d | 2025-09-15 | 6 | 382 | 36 | 117 | 39 | 544 |
+| last720d | 2024-09-20 | 11 | 905 | 52 | 325 | 61 | 934 |
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [liquibase-5.0.4.tar.gz](https://github.com/liquibase/liquibase/releases/download/v5.0.4/liquibase-5.0.4.tar.gz) | 8.4 MiB | `native/unknown` |
+| [liquibase-5.0.4.zip](https://github.com/liquibase/liquibase/releases/download/v5.0.4/liquibase-5.0.4.zip) | 8.4 MiB | `other` |
+| [liquibase-additional-5.0.4.zip](https://github.com/liquibase/liquibase/releases/download/v5.0.4/liquibase-additional-5.0.4.zip) | 9.8 MiB | `other` |
+| [liquibase-core-5.0.4.jar](https://github.com/liquibase/liquibase/releases/download/v5.0.4/liquibase-core-5.0.4.jar) | 3.0 MiB | `other` |
+| [liquibase-windows-x64-installer-5.0.4.exe](https://github.com/liquibase/liquibase/releases/download/v5.0.4/liquibase-windows-x64-installer-5.0.4.exe) | 58.2 MiB | `native/win/x64` |
+
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/liquibase) 上共有 **21** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**17** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `4.33.0` | ⚠️ outdated |
+| Nix unstable | `5.0.4` | ✅ latest |
+| Alpine edge | `4.9.1` | ⚠️ outdated |
+
 ## 改进这些数据
 
 liquibase 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `liquibase` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -72,4 +94,4 @@ liquibase 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:38:22Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:37:59Z._
