@@ -2,25 +2,25 @@ about:
   description: "Main Liquibase Source"
   license: NOASSERTION
   homepage: https://www.liquibase.org
-  head: e53840b
+  head: da28120
   archived: false
   latestVersion: "nightly"
   latestRelease: "v5.0.4"
   latestPrerelease: "nightly"
-  collectedAt: 2026-09-10T05:37:44Z
+  collectedAt: 2026-09-10T20:36:49Z
 timeline:
   created: 2011-07-08
-  lastCommit: 2026-09-09
-  lastVersion: 2026-09-09
+  lastCommit: 2026-09-10
+  lastVersion: 2026-09-10
   lastRelease: 2026-08-20
-  lastPrerelease: 2026-09-09
+  lastPrerelease: 2026-09-10
 popularity:
   star: 5609
   watcher: 136
   fork: 1970
   release: 109
   contributor: 630
-  pullRequest: 5830
+  pullRequest: 5832
   issue: 2139
 language:
   Java: 6749477
@@ -39,61 +39,61 @@ recent:
   last30d:
     since: 2026-08-11
     release: 2
-    mergedPR: 49
-    openPR: 20
+    mergedPR: 51
+    openPR: 19
     closedIssue: 3
     openIssue: 3
-    commit: 83
+    commit: 87
   last60d:
     since: 2026-07-12
     release: 2
-    mergedPR: 89
-    openPR: 22
+    mergedPR: 91
+    openPR: 21
     closedIssue: 9
     openIssue: 10
-    commit: 159
+    commit: 163
   last90d:
     since: 2026-06-12
     release: 2
-    mergedPR: 112
-    openPR: 24
+    mergedPR: 114
+    openPR: 23
     closedIssue: 13
     openIssue: 12
-    commit: 196
+    commit: 200
   last180d:
     since: 2026-03-14
     release: 3
-    mergedPR: 220
-    openPR: 30
+    mergedPR: 222
+    openPR: 29
     closedIssue: 24
     openIssue: 25
-    commit: 338
+    commit: 342
   last360d:
     since: 2025-09-15
     release: 6
-    mergedPR: 380
-    openPR: 37
+    mergedPR: 382
+    openPR: 36
     closedIssue: 117
     openIssue: 39
-    commit: 540
+    commit: 544
   last720d:
     since: 2024-09-20
     release: 11
-    mergedPR: 903
-    openPR: 53
+    mergedPR: 905
+    openPR: 52
     closedIssue: 325
     openIssue: 61
-    commit: 932
+    commit: 934
 total:
   release: 109
-  mergedPR: 4150
-  openPR: 75
+  mergedPR: 4152
+  openPR: 74
   closedIssue: 1954
   openIssue: 185
-  commit: 14453
+  commit: 14455
 ---
 path: /home/runner/.x-repo/github.com/liquibase/liquibase
-collectedAt: 2026-09-10T05:38:10Z
+collectedAt: 2026-09-10T20:37:35Z
 loc:
   Java:
     code: 119772
