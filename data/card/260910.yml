@@ -7,7 +7,7 @@ about:
   latestVersion: "nightly"
   latestRelease: "v5.0.4"
   latestPrerelease: "nightly"
-  collectedAt: 2026-09-10T20:36:49Z
+  collectedAt: 2026-09-10T23:11:57Z
 timeline:
   created: 2011-07-08
   lastCommit: 2026-09-10
@@ -93,7 +93,7 @@ total:
   commit: 14455
 ---
 path: /home/runner/.x-repo/github.com/liquibase/liquibase
-collectedAt: 2026-09-10T20:37:35Z
+collectedAt: 2026-09-10T23:12:23Z
 loc:
   Java:
     code: 119772
