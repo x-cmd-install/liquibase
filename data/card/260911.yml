@@ -7,21 +7,21 @@ about:
   latestVersion: "nightly"
   latestRelease: "v5.0.4"
   latestPrerelease: "nightly"
-  collectedAt: 2026-09-11T05:27:36Z
+  collectedAt: 2026-09-11T19:29:55Z
 timeline:
   created: 2011-07-08
   lastCommit: 2026-09-10
-  lastVersion: 2026-09-10
+  lastVersion: 2026-09-11
   lastRelease: 2026-08-20
-  lastPrerelease: 2026-09-10
+  lastPrerelease: 2026-09-11
 popularity:
   star: 5609
   watcher: 136
-  fork: 1970
+  fork: 1969
   release: 109
   contributor: 630
-  pullRequest: 5832
-  issue: 2139
+  pullRequest: 5833
+  issue: 2140
 language:
   Java: 6749477
   Groovy: 2340451
@@ -42,7 +42,7 @@ recent:
     mergedPR: 48
     openPR: 19
     closedIssue: 1
-    openIssue: 2
+    openIssue: 3
     commit: 87
   last60d:
     since: 2026-07-13
@@ -50,7 +50,7 @@ recent:
     mergedPR: 89
     openPR: 21
     closedIssue: 9
-    openIssue: 10
+    openIssue: 11
     commit: 163
   last90d:
     since: 2026-06-13
@@ -58,7 +58,7 @@ recent:
     mergedPR: 114
     openPR: 23
     closedIssue: 13
-    openIssue: 12
+    openIssue: 13
     commit: 200
   last180d:
     since: 2026-03-15
@@ -66,7 +66,7 @@ recent:
     mergedPR: 222
     openPR: 29
     closedIssue: 24
-    openIssue: 25
+    openIssue: 26
     commit: 342
   last360d:
     since: 2025-09-16
@@ -74,7 +74,7 @@ recent:
     mergedPR: 382
     openPR: 36
     closedIssue: 117
-    openIssue: 39
+    openIssue: 40
     commit: 544
   last720d:
     since: 2024-09-21
@@ -82,18 +82,18 @@ recent:
     mergedPR: 904
     openPR: 52
     closedIssue: 324
-    openIssue: 61
+    openIssue: 62
     commit: 933
 total:
   release: 109
   mergedPR: 4152
   openPR: 74
   closedIssue: 1954
-  openIssue: 185
+  openIssue: 186
   commit: 14455
 ---
 path: /home/runner/.x-repo/github.com/liquibase/liquibase
-collectedAt: 2026-09-11T05:28:09Z
+collectedAt: 2026-09-11T19:30:30Z
 loc:
   Java:
     code: 119772
