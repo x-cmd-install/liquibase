@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,609 · **Forks**: 1,970 · **Open issues**: 2,139 · **Contributors**: 630
+- **Stars**: 5,609 · **Forks**: 1,969 · **Open issues**: 2,140 · **Contributors**: 630
 
 ## Totals (cumulative)
 
-- **Releases**: 109 · **Merged PRs**: 4152 · **Open PRs**: 74 · **Closed issues**: 1954 · **Open issues**: 185 · **Commits**: 14455
+- **Releases**: 109 · **Merged PRs**: 4152 · **Open PRs**: 74 · **Closed issues**: 1954 · **Open issues**: 186 · **Commits**: 14455
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 2 | 48 | 19 | 1 | 2 | 87 |
-| last60d | 2026-07-13 | 2 | 89 | 21 | 9 | 10 | 163 |
-| 90d | 2026-06-13 | 2 | 114 | 23 | 13 | 12 | 200 |
-| last180d | 2026-03-15 | 3 | 222 | 29 | 24 | 25 | 342 |
-| 360d | 2025-09-16 | 6 | 382 | 36 | 117 | 39 | 544 |
-| last720d | 2024-09-21 | 11 | 904 | 52 | 324 | 61 | 933 |
+| 30d | 2026-08-12 | 2 | 48 | 19 | 1 | 3 | 87 |
+| last60d | 2026-07-13 | 2 | 89 | 21 | 9 | 11 | 163 |
+| 90d | 2026-06-13 | 2 | 114 | 23 | 13 | 13 | 200 |
+| last180d | 2026-03-15 | 3 | 222 | 29 | 24 | 26 | 342 |
+| 360d | 2025-09-16 | 6 | 382 | 36 | 117 | 40 | 544 |
+| last720d | 2024-09-21 | 11 | 904 | 52 | 324 | 62 | 933 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for liquibase lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T05:28:15Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T19:30:42Z._
