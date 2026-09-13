@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 2 | 42 | 18 | 1 | 3 | 87 |
-| last60d | 2026-07-14 | 2 | 89 | 21 | 9 | 11 | 163 |
-| 90d | 2026-06-14 | 2 | 114 | 23 | 13 | 13 | 200 |
-| last180d | 2026-03-16 | 3 | 221 | 29 | 24 | 26 | 342 |
-| 360d | 2025-09-17 | 6 | 381 | 36 | 116 | 40 | 544 |
-| last720d | 2024-09-22 | 11 | 904 | 52 | 323 | 62 | 933 |
+| 30d | 2026-08-14 | 2 | 38 | 18 | 1 | 3 | 66 |
+| last60d | 2026-07-15 | 2 | 89 | 21 | 9 | 11 | 159 |
+| 90d | 2026-06-15 | 2 | 114 | 23 | 13 | 13 | 187 |
+| last180d | 2026-03-17 | 3 | 221 | 29 | 24 | 26 | 340 |
+| 360d | 2025-09-18 | 6 | 379 | 36 | 116 | 40 | 529 |
+| last720d | 2024-09-23 | 11 | 902 | 52 | 323 | 62 | 933 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for liquibase lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T05:26:35Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T05:35:44Z._
