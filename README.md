@@ -26,13 +26,13 @@ Total: **310,574** lines of code across **2272** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.6 / 10**
+Overall score: **5.8 / 10**
 
 Lowest-scoring checks:
 
-- **Dangerous-Workflow** (0/10) — dangerous workflow patterns detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `nightly` (2026-08-20)
-- **Last commit**: 2026-09-10
+- **Last commit**: 2026-09-15
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 5,610 · **Forks**: 1,969 · **Open issues**: 2,140 · **Contributors**: 630
+- **Stars**: 5,611 · **Forks**: 1,969 · **Open issues**: 2,141 · **Contributors**: 630
 
 ## Totals (cumulative)
 
-- **Releases**: 109 · **Merged PRs**: 4152 · **Open PRs**: 74 · **Closed issues**: 1954 · **Open issues**: 186 · **Commits**: 14455
+- **Releases**: 109 · **Merged PRs**: 4153 · **Open PRs**: 73 · **Closed issues**: 1955 · **Open issues**: 186 · **Commits**: 14456
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 2 | 38 | 18 | 1 | 3 | 66 |
-| last60d | 2026-07-16 | 2 | 88 | 21 | 9 | 11 | 159 |
-| 90d | 2026-06-16 | 2 | 111 | 23 | 13 | 13 | 187 |
-| last180d | 2026-03-18 | 3 | 220 | 29 | 24 | 26 | 340 |
-| 360d | 2025-09-19 | 6 | 375 | 36 | 116 | 40 | 529 |
-| last720d | 2024-09-24 | 11 | 897 | 52 | 323 | 61 | 932 |
+| 30d | 2026-08-16 | 2 | 39 | 17 | 1 | 4 | 67 |
+| last60d | 2026-07-17 | 2 | 89 | 20 | 9 | 12 | 160 |
+| 90d | 2026-06-17 | 2 | 111 | 22 | 14 | 13 | 188 |
+| last180d | 2026-03-19 | 3 | 220 | 28 | 25 | 26 | 341 |
+| 360d | 2025-09-20 | 6 | 375 | 35 | 117 | 40 | 530 |
+| last720d | 2024-09-25 | 11 | 895 | 51 | 323 | 61 | 931 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for liquibase lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T05:51:50Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T05:53:32Z._
