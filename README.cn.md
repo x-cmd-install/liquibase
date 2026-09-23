@@ -4,7 +4,7 @@
 
 Main Liquibase Source
 
-[![x-cmd/install — liquibase Code Quality Monitoring Repo Card](https://repo.x-cmd.io/liquibase.svg?lang=zh)](https://x-cmd.com/install/liquibase)
+[![x-cmd/install — liquibase Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/liquibase.svg?lang=zh)](https://x-cmd.com/install/liquibase)
 
 ## 安装
 
@@ -43,7 +43,7 @@ x install liquibase
 ## 发布
 
 - **最新版本**: `nightly` (2026-08-20)
-- **最近提交**: 2026-09-21
+- **最近提交**: 2026-09-22
 - **Release 含资产**: 5 个
 
 ## 流行度
@@ -52,18 +52,18 @@ x install liquibase
 
 ## 累计统计
 
-- **发布数**: 109 · **已合并 PR**: 4169 · **开放 PR**: 69 · **已关闭 issue**: 1956 · **开放 issue**: 187 · **提交数**: 14472
+- **发布数**: 109 · **已合并 PR**: 4177 · **开放 PR**: 67 · **已关闭 issue**: 1956 · **开放 issue**: 187 · **提交数**: 14480
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 43 | 11 | 0 | 5 | 68 |
-| last60d | 2026-07-24 | 2 | 99 | 16 | 8 | 13 | 167 |
-| 90d | 2026-06-24 | 2 | 120 | 18 | 15 | 14 | 198 |
-| last180d | 2026-03-26 | 3 | 236 | 24 | 25 | 26 | 353 |
-| 360d | 2025-09-27 | 6 | 374 | 31 | 117 | 41 | 546 |
-| last720d | 2024-10-02 | 11 | 895 | 47 | 320 | 62 | 936 |
+| 30d | 2026-08-24 | 1 | 51 | 9 | 0 | 5 | 81 |
+| last60d | 2026-07-25 | 2 | 107 | 14 | 8 | 13 | 180 |
+| 90d | 2026-06-25 | 2 | 128 | 16 | 15 | 14 | 211 |
+| last180d | 2026-03-27 | 3 | 244 | 22 | 25 | 25 | 366 |
+| 360d | 2025-09-28 | 6 | 382 | 29 | 117 | 41 | 559 |
+| last720d | 2024-10-03 | 11 | 901 | 45 | 320 | 62 | 943 |
 
 ## Release 资产
 
@@ -84,4 +84,4 @@ liquibase 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:50:39Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:46:33Z._
