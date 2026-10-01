@@ -26,13 +26,13 @@ x install liquibase
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.7 / 10**
+总评分: **5.5 / 10**
 
 评分最低的几项:
 
+- **Code-Review** (4/10) — Found 10/22 approved changesets -- score normalized to 4
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Fuzzing** (0/10) — project is not fuzzed
 
 ## 源代码
 
@@ -42,28 +42,28 @@ x install liquibase
 
 ## 发布
 
-- **最新版本**: `nightly` (2026-08-20)
-- **最近提交**: 2026-09-22
+- **最新版本**: `v5.0.4` (2026-08-20)
+- **最近提交**: 2026-09-30
 - **Release 含资产**: 5 个
 
 ## 流行度
 
-- **Star**: 5,618 · **Fork**: 1,971 · **开放 issue**: 2,144 · **贡献者**: 630
+- **Star**: 5,618 · **Fork**: 1,973 · **开放 issue**: 2,144 · **贡献者**: 630
 
 ## 累计统计
 
-- **发布数**: 109 · **已合并 PR**: 4177 · **开放 PR**: 71 · **已关闭 issue**: 1956 · **开放 issue**: 188 · **提交数**: 14480
+- **发布数**: 108 · **已合并 PR**: 4179 · **开放 PR**: 72 · **已关闭 issue**: 1956 · **开放 issue**: 188 · **提交数**: 14482
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 1 | 37 | 12 | 0 | 5 | 52 |
-| last60d | 2026-08-01 | 2 | 97 | 17 | 5 | 11 | 170 |
-| 90d | 2026-07-02 | 2 | 121 | 18 | 11 | 15 | 203 |
-| last180d | 2026-04-03 | 3 | 240 | 26 | 24 | 26 | 364 |
-| 360d | 2025-10-05 | 4 | 375 | 33 | 80 | 42 | 556 |
-| last720d | 2024-10-10 | 11 | 885 | 49 | 316 | 63 | 933 |
+| 30d | 2026-09-01 | 0 | 35 | 12 | 0 | 5 | 55 |
+| last60d | 2026-08-02 | 1 | 99 | 18 | 5 | 11 | 173 |
+| 90d | 2026-07-03 | 1 | 122 | 19 | 11 | 15 | 206 |
+| last180d | 2026-04-04 | 2 | 242 | 27 | 24 | 26 | 367 |
+| 360d | 2025-10-06 | 3 | 377 | 34 | 80 | 42 | 559 |
+| last720d | 2024-10-11 | 10 | 884 | 50 | 316 | 63 | 934 |
 
 ## Release 资产
 
@@ -84,4 +84,4 @@ liquibase 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260930.yml` · 2026-09-30T06:14:38Z._
+_数据快照: `data/card/261001.yml` · 2026-10-01T06:38:59Z._
