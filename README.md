@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `nightly` (2026-08-20)
-- **Last commit**: 2026-10-05
+- **Last commit**: 2026-10-06
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 5,621 · **Forks**: 1,972 · **Open issues**: 2,144 · **Contributors**: 630
+- **Stars**: 5,621 · **Forks**: 1,971 · **Open issues**: 2,145 · **Contributors**: 630
 
 ## Totals (cumulative)
 
-- **Releases**: 109 · **Merged PRs**: 4181 · **Open PRs**: 75 · **Closed issues**: 1956 · **Open issues**: 188 · **Commits**: 14484
+- **Releases**: 109 · **Merged PRs**: 4182 · **Open PRs**: 74 · **Closed issues**: 1956 · **Open issues**: 189 · **Commits**: 14485
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 1 | 30 | 15 | 0 | 5 | 41 |
-| last60d | 2026-08-07 | 2 | 87 | 21 | 5 | 9 | 145 |
-| 90d | 2026-07-08 | 2 | 123 | 22 | 10 | 14 | 206 |
-| last180d | 2026-04-09 | 3 | 233 | 29 | 24 | 23 | 365 |
-| 360d | 2025-10-11 | 4 | 378 | 37 | 75 | 42 | 557 |
-| last720d | 2024-10-16 | 11 | 879 | 50 | 311 | 63 | 933 |
+| 30d | 2026-09-07 | 1 | 28 | 14 | 0 | 6 | 43 |
+| last60d | 2026-08-08 | 2 | 88 | 20 | 5 | 10 | 147 |
+| 90d | 2026-07-09 | 2 | 123 | 21 | 10 | 15 | 208 |
+| last180d | 2026-04-10 | 3 | 234 | 28 | 24 | 24 | 367 |
+| 360d | 2025-10-12 | 4 | 379 | 36 | 75 | 43 | 559 |
+| last720d | 2024-10-17 | 11 | 876 | 49 | 311 | 64 | 931 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for liquibase lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T07:05:30Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T06:34:17Z._
