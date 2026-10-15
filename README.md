@@ -26,12 +26,12 @@ Total: **311,031** lines of code across **2274** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.7 / 10**
+Overall score: **5.8 / 10**
 
 Lowest-scoring checks:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Fuzzing** (0/10) — project is not fuzzed
 
 ## Source
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,624 · **Forks**: 1,975 · **Open issues**: 2,147 · **Contributors**: 632
+- **Stars**: 5,626 · **Forks**: 1,975 · **Open issues**: 2,147 · **Contributors**: 631
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 1 | 22 | 14 | 1 | 5 | 31 |
-| last60d | 2026-08-15 | 2 | 72 | 17 | 4 | 7 | 119 |
-| 90d | 2026-07-16 | 2 | 123 | 19 | 12 | 15 | 207 |
-| last180d | 2026-04-17 | 3 | 233 | 26 | 27 | 23 | 354 |
-| 360d | 2025-10-19 | 4 | 379 | 34 | 74 | 41 | 558 |
-| last720d | 2024-10-24 | 11 | 866 | 47 | 308 | 63 | 915 |
+| 30d | 2026-09-15 | 1 | 19 | 14 | 0 | 5 | 31 |
+| last60d | 2026-08-16 | 2 | 72 | 17 | 4 | 7 | 119 |
+| 90d | 2026-07-17 | 2 | 123 | 19 | 12 | 15 | 207 |
+| last180d | 2026-04-18 | 3 | 233 | 26 | 27 | 23 | 354 |
+| 360d | 2025-10-20 | 4 | 379 | 34 | 72 | 41 | 558 |
+| last720d | 2024-10-25 | 11 | 861 | 47 | 307 | 63 | 911 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for liquibase lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T05:33:34Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T05:22:31Z._

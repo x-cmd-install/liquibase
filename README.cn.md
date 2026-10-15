@@ -26,12 +26,12 @@ x install liquibase
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.7 / 10**
+总评分: **5.8 / 10**
 
 评分最低的几项:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Fuzzing** (0/10) — project is not fuzzed
 
 ## 源代码
@@ -48,7 +48,7 @@ x install liquibase
 
 ## 流行度
 
-- **Star**: 5,624 · **Fork**: 1,975 · **开放 issue**: 2,147 · **贡献者**: 632
+- **Star**: 5,626 · **Fork**: 1,975 · **开放 issue**: 2,147 · **贡献者**: 631
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install liquibase
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 1 | 22 | 14 | 1 | 5 | 31 |
-| last60d | 2026-08-15 | 2 | 72 | 17 | 4 | 7 | 119 |
-| 90d | 2026-07-16 | 2 | 123 | 19 | 12 | 15 | 207 |
-| last180d | 2026-04-17 | 3 | 233 | 26 | 27 | 23 | 354 |
-| 360d | 2025-10-19 | 4 | 379 | 34 | 74 | 41 | 558 |
-| last720d | 2024-10-24 | 11 | 866 | 47 | 308 | 63 | 915 |
+| 30d | 2026-09-15 | 1 | 19 | 14 | 0 | 5 | 31 |
+| last60d | 2026-08-16 | 2 | 72 | 17 | 4 | 7 | 119 |
+| 90d | 2026-07-17 | 2 | 123 | 19 | 12 | 15 | 207 |
+| last180d | 2026-04-18 | 3 | 233 | 26 | 27 | 23 | 354 |
+| 360d | 2025-10-20 | 4 | 379 | 34 | 72 | 41 | 558 |
+| last720d | 2024-10-25 | 11 | 861 | 47 | 307 | 63 | 911 |
 
 ## Release 资产
 
@@ -84,4 +84,4 @@ liquibase 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261014.yml` · 2026-10-14T05:33:35Z._
+_数据快照: `data/card/261015.yml` · 2026-10-15T05:22:32Z._
