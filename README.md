@@ -14,14 +14,14 @@ x install liquibase
 
 ## Code insight
 
-Total: **311,031** lines of code across **2274** files in the top 5 languages.
+Total: **311,764** lines of code across **2281** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 119,927 | 20,504 | 24,607 | 1495 |
+| Java | 120,388 | 20,628 | 24,710 | 1499 |
 | Json | 119,220 | 0 | 124 | 17 |
-| Groovy | 42,673 | 1,487 | 7,537 | 390 |
-| Xml | 21,465 | 580 | 2,191 | 316 |
+| Groovy | 42,912 | 1,513 | 7,579 | 391 |
+| Xml | 21,498 | 580 | 2,197 | 318 |
 | Yaml | 3,772 | 35 | 209 | 56 |
 
 ## OpenSSF Scorecard
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `nightly` (2026-08-20)
-- **Last commit**: 2026-10-09
+- **Last commit**: 2026-10-19
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 5,628 · **Forks**: 1,977 · **Open issues**: 2,148 · **Contributors**: 631
+- **Stars**: 5,628 · **Forks**: 1,975 · **Open issues**: 2,148 · **Contributors**: 633
 
 ## Totals (cumulative)
 
-- **Releases**: 109 · **Merged PRs**: 4187 · **Open PRs**: 74 · **Closed issues**: 1961 · **Open issues**: 187 · **Commits**: 14490
+- **Releases**: 109 · **Merged PRs**: 4190 · **Open PRs**: 75 · **Closed issues**: 1962 · **Open issues**: 186 · **Commits**: 14493
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 1 | 11 | 16 | 0 | 5 | 14 |
-| last60d | 2026-08-20 | 2 | 59 | 19 | 2 | 8 | 102 |
-| 90d | 2026-07-21 | 2 | 121 | 21 | 11 | 16 | 199 |
-| last180d | 2026-04-22 | 3 | 229 | 28 | 26 | 23 | 347 |
-| 360d | 2025-10-24 | 4 | 373 | 36 | 70 | 41 | 545 |
-| last720d | 2024-10-29 | 11 | 857 | 49 | 306 | 64 | 904 |
+| 30d | 2026-09-20 | 1 | 13 | 18 | 0 | 5 | 16 |
+| last60d | 2026-08-21 | 1 | 61 | 20 | 2 | 8 | 104 |
+| 90d | 2026-07-22 | 2 | 122 | 22 | 10 | 16 | 201 |
+| last180d | 2026-04-23 | 3 | 230 | 29 | 26 | 23 | 349 |
+| 360d | 2025-10-25 | 4 | 375 | 37 | 70 | 41 | 547 |
+| last720d | 2024-10-30 | 11 | 858 | 50 | 306 | 64 | 906 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for liquibase lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T05:18:41Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T05:34:50Z._
