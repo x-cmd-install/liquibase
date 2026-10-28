@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `nightly` (2026-08-20)
-- **Last commit**: 2026-10-21
+- **Last commit**: 2026-10-27
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 5,634 · **Forks**: 1,974 · **Open issues**: 2,152 · **Contributors**: 635
+- **Stars**: 5,634 · **Forks**: 1,975 · **Open issues**: 2,153 · **Contributors**: 635
 
 ## Totals (cumulative)
 
-- **Releases**: 109 · **Merged PRs**: 4194 · **Open PRs**: 74 · **Closed issues**: 1964 · **Open issues**: 188 · **Commits**: 14497
+- **Releases**: 109 · **Merged PRs**: 4195 · **Open PRs**: 76 · **Closed issues**: 1964 · **Open issues**: 189 · **Commits**: 14498
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 1 | 10 | 16 | 1 | 7 | 19 |
-| last60d | 2026-08-28 | 1 | 50 | 20 | 2 | 11 | 85 |
-| 90d | 2026-07-29 | 2 | 117 | 22 | 8 | 16 | 196 |
-| last180d | 2026-04-30 | 3 | 230 | 28 | 27 | 24 | 339 |
-| 360d | 2025-11-01 | 4 | 375 | 36 | 68 | 44 | 546 |
-| last720d | 2024-11-06 | 11 | 851 | 49 | 299 | 67 | 907 |
+| 30d | 2026-09-28 | 1 | 9 | 17 | 1 | 8 | 21 |
+| last60d | 2026-08-29 | 1 | 51 | 22 | 2 | 12 | 87 |
+| 90d | 2026-07-30 | 2 | 116 | 24 | 8 | 17 | 198 |
+| last180d | 2026-05-01 | 3 | 231 | 30 | 27 | 25 | 341 |
+| 360d | 2025-11-02 | 4 | 376 | 38 | 68 | 45 | 548 |
+| last720d | 2024-11-07 | 11 | 848 | 51 | 299 | 68 | 908 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for liquibase lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T05:42:32Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T06:17:45Z._
