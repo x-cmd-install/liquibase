@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `nightly` (2026-08-20)
-- **Last commit**: 2026-11-06
+- **Last commit**: 2026-11-12
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 5,642 · **Forks**: 1,982 · **Open issues**: 2,155 · **Contributors**: 635
+- **Stars**: 5,641 · **Forks**: 1,982 · **Open issues**: 2,155 · **Contributors**: 635
 
 ## Totals (cumulative)
 
-- **Releases**: 109 · **Merged PRs**: 4196 · **Open PRs**: 87 · **Closed issues**: 1965 · **Open issues**: 190 · **Commits**: 14499
+- **Releases**: 109 · **Merged PRs**: 4197 · **Open PRs**: 88 · **Closed issues**: 1965 · **Open issues**: 190 · **Commits**: 14500
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 1 | 3 | 24 | 0 | 8 | 11 |
-| last60d | 2026-09-13 | 1 | 29 | 31 | 2 | 13 | 58 |
-| 90d | 2026-08-14 | 2 | 80 | 33 | 5 | 14 | 138 |
-| last180d | 2026-05-16 | 2 | 201 | 39 | 25 | 25 | 305 |
-| 360d | 2025-11-17 | 4 | 360 | 46 | 59 | 44 | 538 |
-| last720d | 2024-11-22 | 11 | 831 | 62 | 288 | 68 | 870 |
+| 30d | 2026-10-14 | 1 | 4 | 25 | 0 | 8 | 13 |
+| last60d | 2026-09-14 | 1 | 30 | 32 | 2 | 12 | 60 |
+| 90d | 2026-08-15 | 2 | 81 | 34 | 5 | 14 | 140 |
+| last180d | 2026-05-17 | 2 | 202 | 40 | 24 | 25 | 307 |
+| 360d | 2025-11-18 | 4 | 361 | 47 | 59 | 44 | 540 |
+| last720d | 2024-11-23 | 11 | 832 | 63 | 287 | 67 | 868 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for liquibase lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T08:25:46Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T07:45:45Z._
