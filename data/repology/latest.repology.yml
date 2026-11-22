@@ -1,3 +1,14 @@
+- repo: nix_stable_25_11
+  srcname: liquibase
+  visiblename: liquibase
+  version: 5.0.1
+  origversion: null
+  status: outdated
+  summary: Version Control for your database
+  maintainers:
+    - jsoo1@asu.edu
+  licenses:
+    - Apache-2.0
 - repo: alpine_edge
   subrepo: testing
   srcname: liquibase
@@ -83,17 +94,6 @@
     - jsoo1@asu.edu
   licenses:
     - Apache-2.0
-- repo: nix_stable_25_11
-  srcname: liquibase
-  visiblename: liquibase
-  version: 5.0.1
-  origversion: null
-  status: outdated
-  summary: Version Control for your database
-  maintainers:
-    - jsoo1@asu.edu
-  licenses:
-    - Apache-2.0
 - repo: nix_stable_26_05
   srcname: liquibase
   visiblename: liquibase
@@ -134,7 +134,7 @@
   status: newest
   summary: software library to track, manage and apply database schema changes
   licenses:
-    - Apache Software License 2.0
+    - Apache License 2.0
 - repo: epel_7
   srcname: liquibase
   visiblename: liquibase
