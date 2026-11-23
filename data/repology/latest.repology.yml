@@ -1,14 +1,22 @@
-- repo: nix_stable_25_11
+- repo: homebrew
   srcname: liquibase
   visiblename: liquibase
-  version: 5.0.1
+  version: 4.33.0
   origversion: null
   status: outdated
+  summary: Library for database change tracking
+- repo: nix_unstable
+  srcname: liquibase
+  visiblename: liquibase
+  version: 5.0.4
+  origversion: null
+  status: newest
   summary: Version Control for your database
   maintainers:
+    - agilesteel@gmail.com
     - jsoo1@asu.edu
   licenses:
-    - Apache-2.0
+    - FSL-1.1-ALv2
 - repo: alpine_edge
   subrepo: testing
   srcname: liquibase
@@ -54,13 +62,6 @@
   origversion: null
   status: newest
   summary: An open source library for tracking, managing, and applying database changes.
-- repo: homebrew
-  srcname: liquibase
-  visiblename: liquibase
-  version: 4.33.0
-  origversion: null
-  status: outdated
-  summary: Library for database change tracking
 - repo: nix_stable_24_05
   srcname: liquibase
   visiblename: liquibase
@@ -94,6 +95,17 @@
     - jsoo1@asu.edu
   licenses:
     - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: liquibase
+  visiblename: liquibase
+  version: 5.0.1
+  origversion: null
+  status: outdated
+  summary: Version Control for your database
+  maintainers:
+    - jsoo1@asu.edu
+  licenses:
+    - Apache-2.0
 - repo: nix_stable_26_05
   srcname: liquibase
   visiblename: liquibase
@@ -105,18 +117,6 @@
     - jsoo1@asu.edu
   licenses:
     - Apache-2.0
-- repo: nix_unstable
-  srcname: liquibase
-  visiblename: liquibase
-  version: 5.0.4
-  origversion: null
-  status: newest
-  summary: Version Control for your database
-  maintainers:
-    - agilesteel@gmail.com
-    - jsoo1@asu.edu
-  licenses:
-    - FSL-1.1-ALv2
 - repo: scoop
   subrepo: main
   binname: liquibase
