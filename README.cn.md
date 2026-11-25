@@ -14,13 +14,13 @@ x install liquibase
 
 ## 代码洞察
 
-合计: **313,706** 行代码（覆盖前 5 种语言、共 **2291** 个文件）。
+合计: **313,781** 行代码（覆盖前 5 种语言、共 **2293** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Java | 121,908 | 21,062 | 24,949 | 1505 |
+| Java | 121,914 | 21,074 | 24,950 | 1505 |
 | Json | 119,220 | 0 | 124 | 17 |
-| Groovy | 43,302 | 1,521 | 7,636 | 394 |
+| Groovy | 43,371 | 1,521 | 7,651 | 396 |
 | Xml | 21,530 | 580 | 2,204 | 319 |
 | Yaml | 3,772 | 35 | 209 | 56 |
 
@@ -43,27 +43,27 @@ x install liquibase
 ## 发布
 
 - **最新版本**: `nightly` (2026-08-20)
-- **最近提交**: 2026-11-23
+- **最近提交**: 2026-11-24
 - **Release 含资产**: 5 个
 
 ## 流行度
 
-- **Star**: 5,644 · **Fork**: 1,983 · **开放 issue**: 2,157 · **贡献者**: 638
+- **Star**: 5,644 · **Fork**: 1,983 · **开放 issue**: 2,156 · **贡献者**: 639
 
 ## 累计统计
 
-- **发布数**: 109 · **已合并 PR**: 4211 · **开放 PR**: 78 · **已关闭 issue**: 1971 · **开放 issue**: 186 · **提交数**: 14519
+- **发布数**: 109 · **已合并 PR**: 4212 · **开放 PR**: 77 · **已关闭 issue**: 1970 · **开放 issue**: 186 · **提交数**: 14520
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 12 | 14 | 0 | 6 | 16 |
-| last60d | 2026-09-25 | 1 | 26 | 21 | 2 | 11 | 50 |
-| 90d | 2026-08-26 | 1 | 74 | 24 | 5 | 14 | 128 |
-| last180d | 2026-05-28 | 2 | 182 | 29 | 24 | 24 | 289 |
-| 360d | 2025-11-29 | 4 | 375 | 36 | 60 | 41 | 552 |
-| last720d | 2024-12-04 | 11 | 835 | 53 | 284 | 65 | 877 |
+| 30d | 2026-10-26 | 1 | 12 | 11 | 0 | 5 | 17 |
+| last60d | 2026-09-26 | 1 | 27 | 20 | 2 | 11 | 51 |
+| 90d | 2026-08-27 | 1 | 74 | 23 | 5 | 14 | 129 |
+| last180d | 2026-05-29 | 2 | 181 | 28 | 24 | 24 | 290 |
+| 360d | 2025-11-30 | 4 | 375 | 35 | 59 | 41 | 553 |
+| last720d | 2024-12-05 | 11 | 834 | 52 | 281 | 65 | 874 |
 
 ## Release 资产
 
@@ -75,16 +75,6 @@ x install liquibase
 | [liquibase-core-5.0.4.jar](https://github.com/liquibase/liquibase/releases/download/v5.0.4/liquibase-core-5.0.4.jar) | 3.0 MiB | `other` |
 | [liquibase-windows-x64-installer-5.0.4.exe](https://github.com/liquibase/liquibase/releases/download/v5.0.4/liquibase-windows-x64-installer-5.0.4.exe) | 58.2 MiB | `native/win/x64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/liquibase) 上共有 **20** 个发行版报告此项目。**5** 个 ✅ 已是最新上游版本，**15** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `4.33.0` | ⚠️ outdated |
-| Nix unstable | `5.0.4` | ✅ latest |
-| Alpine edge | `4.9.1` | ⚠️ outdated |
-
 ## 改进这些数据
 
 liquibase 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `liquibase` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -94,4 +84,4 @@ liquibase 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T11:10:28Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T09:21:00Z._

@@ -14,13 +14,13 @@ x install liquibase
 
 ## Code insight
 
-Total: **313,706** lines of code across **2291** files in the top 5 languages.
+Total: **313,781** lines of code across **2293** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 121,908 | 21,062 | 24,949 | 1505 |
+| Java | 121,914 | 21,074 | 24,950 | 1505 |
 | Json | 119,220 | 0 | 124 | 17 |
-| Groovy | 43,302 | 1,521 | 7,636 | 394 |
+| Groovy | 43,371 | 1,521 | 7,651 | 396 |
 | Xml | 21,530 | 580 | 2,204 | 319 |
 | Yaml | 3,772 | 35 | 209 | 56 |
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `nightly` (2026-08-20)
-- **Last commit**: 2026-11-23
+- **Last commit**: 2026-11-24
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 5,644 · **Forks**: 1,983 · **Open issues**: 2,157 · **Contributors**: 638
+- **Stars**: 5,644 · **Forks**: 1,983 · **Open issues**: 2,156 · **Contributors**: 639
 
 ## Totals (cumulative)
 
-- **Releases**: 109 · **Merged PRs**: 4211 · **Open PRs**: 78 · **Closed issues**: 1971 · **Open issues**: 186 · **Commits**: 14519
+- **Releases**: 109 · **Merged PRs**: 4212 · **Open PRs**: 77 · **Closed issues**: 1970 · **Open issues**: 186 · **Commits**: 14520
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 12 | 14 | 0 | 6 | 16 |
-| last60d | 2026-09-25 | 1 | 26 | 21 | 2 | 11 | 50 |
-| 90d | 2026-08-26 | 1 | 74 | 24 | 5 | 14 | 128 |
-| last180d | 2026-05-28 | 2 | 182 | 29 | 24 | 24 | 289 |
-| 360d | 2025-11-29 | 4 | 375 | 36 | 60 | 41 | 552 |
-| last720d | 2024-12-04 | 11 | 835 | 53 | 284 | 65 | 877 |
+| 30d | 2026-10-26 | 1 | 12 | 11 | 0 | 5 | 17 |
+| last60d | 2026-09-26 | 1 | 27 | 20 | 2 | 11 | 51 |
+| 90d | 2026-08-27 | 1 | 74 | 23 | 5 | 14 | 129 |
+| last180d | 2026-05-29 | 2 | 181 | 28 | 24 | 24 | 290 |
+| 360d | 2025-11-30 | 4 | 375 | 35 | 59 | 41 | 553 |
+| last720d | 2024-12-05 | 11 | 834 | 52 | 281 | 65 | 874 |
 
 ## Release assets
 
@@ -75,16 +75,6 @@ Lowest-scoring checks:
 | [liquibase-core-5.0.4.jar](https://github.com/liquibase/liquibase/releases/download/v5.0.4/liquibase-core-5.0.4.jar) | 3.0 MiB | `other` |
 | [liquibase-windows-x64-installer-5.0.4.exe](https://github.com/liquibase/liquibase/releases/download/v5.0.4/liquibase-windows-x64-installer-5.0.4.exe) | 58.2 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **20** distros on [repology.org](https://repology.org/project/liquibase). **5** are ✅ on the latest upstream release, **15** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `4.33.0` | ⚠️ outdated |
-| Nix unstable | `5.0.4` | ✅ latest |
-| Alpine edge | `4.9.1` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for liquibase lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `liquibase` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -94,4 +84,4 @@ Install metadata for liquibase lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:10:27Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:21:00Z._
